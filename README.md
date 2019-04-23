@@ -1,4 +1,4 @@
-# FasTer
-FasTer: Fast Tensor Completion with Nonconvex Regularization
+# NORT
+Efficient Nonconvex Regularized Tensor Completion with Structure-aware Proximal Iterations. ICML-2019.
 
-code for "FasTer: Fast Tensor Completion with Nonconvex Regularization". Quanming Yao. arXiv preprint: https://arxiv.org/abs/1807.08725
+Matlab code for "Efficient Nonconvex Regularized Tensor Completion with Structure-aware Proximal Iterations. ICML-2019". Quanming Yao, James T. Kwok and Bo Han. (https://arxiv.org/abs/1807.08725)
